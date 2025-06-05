@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+*.log
+
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki tymczasowe
+*.class
+*.swp
+*.swo
+
+# Testowe raporty
+surefire-reports/
